@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node16",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./lib",
+    "declaration": true
+  },
+  "include": ["src"],
+  "exclude": ["test"]
+}
