@@ -58,5 +58,5 @@ This package is heavily inspired by the `auto` function of `async`. The reason f
 
 ## Language compatibility
 
-- JavaScript - `taskman` is compiled to ES2021 and is a CommonJS library, but if you find it useful and need compatibility with other environments, we will consider accommodating. It has no dependencies.
-- TypeScript - `taskman` is written in TypeScript 4.6.3.
+- JavaScript - `taskmap` is compiled to ES2021 and is a CommonJS library, but if you find it useful and need compatibility with other environments, we will consider accommodating. It has no dependencies.
+- TypeScript - `taskmap` is written in TypeScript 4.6.3.
